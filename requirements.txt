@@ -19,7 +19,7 @@ ipdb==0.8
 ipython==3.1.0
 jdcal==1.0
 newrelic==2.48.0.38
-openpyxl==2.2.5
+openpyxl==2.4.2
 psycopg2==2.6
 requests==2.2.1
 six==1.5.2
